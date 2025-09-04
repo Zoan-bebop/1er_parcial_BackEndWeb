@@ -44,13 +44,13 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="mb-3">
-                        <label class="form-label">Fecha de Nacimiento</label>
+                        <label class="form-label">Fecha de Nacimiento *</label>
                         <input type="date" class="form-control" id="fecha_nacimiento" name="fecha_nacimiento"required>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="mb-3">
-                        <label class="form-label">Email</label>
+                        <label for="email" class="form-label">Email *</label>
                         <input type="email" class="form-control" id="email" name="email"required>
                     </div>
                 </div>
